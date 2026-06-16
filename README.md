@@ -54,6 +54,7 @@ Navigate to the project directory:
    streamlit run app.py
 ```
 📁 Repository Structure
+
 app.py: The main Python script containing the Streamlit dashboard logic and Plotly visualizations.
 
 Nassau Candy Distributor (1).csv: The dataset used for the analysis.
