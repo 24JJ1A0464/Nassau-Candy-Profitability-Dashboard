@@ -1,7 +1,7 @@
 # Nassau Candy Distributor: Profitability & Cost Structure Analysis
 
-**Live Dashboard:** [Click here to view the deployed Streamlit App]([https://znyuyojtbechkqkyz2pant.streamlit.app/])  
-**Author:** [Tumma Balaji]  
+**Live Dashboard:** [Click here to view the deployed Streamlit App]([https://znyuyojtbechkqkyz2pant.streamlit.app/]  
+**Author:** Tumma Balaji
 **Role:** Data Analyst Intern @ Unified Mentor Private Limited
 
 ## 📌 Project Overview
