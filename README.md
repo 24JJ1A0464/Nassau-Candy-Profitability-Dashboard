@@ -37,20 +37,22 @@ Navigate to the project directory:
    
 ```bash
    git clone [https://github.com/24JJ1A0464/Nassau-Candy-Profitability-Dashboard.git](https://github.com/24JJ1A0464/Nassau-Candy-Profitability-Dashboard.git)
+```
+2. Navigate to the project directory:
 
-2. Bash
+```Bash
    cd Nassau-Candy-Profitability-Dashboard
-
+```
 3. Install the required dependencies:
 
-Bash
+```Bash
    pip install -r requirements.txt
-
+```
 4. Launch the Streamlit application:
 
-Bash
+```Bash
    streamlit run app.py
-
+```
 📁 Repository Structure
 app.py: The main Python script containing the Streamlit dashboard logic and Plotly visualizations.
 
